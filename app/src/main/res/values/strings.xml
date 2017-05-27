@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Tim Burton Quiz</string>
+
+    <!-- Strings for questions and answers.-->
+    <string name="welcome">Welcome in Tim Burton\'s World!</string>
+    <string name="question1">Who is Tim Burton?</string>
+    <string name="help">(Every correct answer is +1 point, every wrong answer is -1 point!)</string>
+    <string name="checkbox1">film director</string>
+    <string name="checkbox2">editor</string>
+    <string name="checkbox3">artist</string>
+    <string name="checkbox4">producer</string>
+    <string name="checkbox5">cameraman</string>
+    <string name="checkbox6">actor</string>
+    <string name="question2">Who is Tim Burton\'s wife, who often plays main roles in his movies?</string>
+    <string name="radio1">Geena Davis</string>
+    <string name="radio2">Sarah Jessica Parker</string>
+    <string name="radio3">Helena Bonham Carter</string>
+    <string name="radio4">Winona Ryder</string>
+    <string name="radio5">Christina Ricci</string>
+    <string name="question3">Who plays the main character in Sweeney Todd: The demon barber of Fleet Street?</string>
+    <string name="hint">Please type your answer here!</string>
+    <string name="answer1">Johnny Depp</string>
+    <string name="answer2">Depp</string>
+    <string name="question4">Try to find all of Tim Burton\'s movies from this list below!</string>
+    <string name="checkbox7">Batman</string>
+    <string name="checkbox8">The Brothers Grimm</string>
+    <string name="checkbox9">Stardust</string>
+    <string name="checkbox10">Nightmare before Christmas</string>
+    <string name="checkbox11">Edward Scissorhand</string>
+    <string name="checkbox12">Fantastic Beasts and where to find them</string>
+    <string name="checkbox13">Corpse Bride</string>
+    <string name="checkbox14">Crimson Peak</string>
+    <string name="question5">Which one isn\'t Tim Burton\'s movie?</string>
+    <string name="radio6">Charlie and the Chocolate Factory</string>
+    <string name="radio7">Sleepy Hollow</string>
+    <string name="radio8">Beetlejuice</string>
+    <string name="radio9">Donnie Darko</string>
+    <string name="radio10">Alice in Wonderland</string>
+    <string name="radio11">Miss Peregrine\'s home for Peculiar Children</string>
+    <string name="thankYou">Thank you to use the application!\nHope you had fun!\nClick Submit Answers below to get the results.</string>
+    <string name="button1">Submit Answers</string>
+    <string name="button2">Restart Quiz</string>
+</resources>

@@ -1,0 +1,90 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Styles of views in the application. -->
+    <!-- Style of Welcome... title in the application. -->
+    <style name="WelcomeStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/welcome_text_size</item>
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:layout_margin">@dimen/views_margin</item>
+    </style>
+
+    <!-- Style of questions in the application. -->
+    <style name="QuestionStyle">
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textSize">@dimen/question_text_size</item>
+        <item name="android:layout_margin">@dimen/views_margin</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!-- Style of textviews with description in the application. -->
+    <style name="HelpStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:layout_margin">@dimen/views_margin</item>
+    </style>
+
+    <!-- Style of checkboxes in the application. -->
+    <style name="CheckboxStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:buttonTint">@color/colorAccent</item>
+        <item name="android:layout_marginLeft">@dimen/answer_margin_left</item>
+    </style>
+
+    <!-- Style of radiobuttons in the application. -->
+    <style name="RadioButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:buttonTint">@color/colorAccent</item>
+        <item name="android:layout_marginLeft">@dimen/answer_margin_left</item>
+    </style>
+
+    <!-- Style of edittext field in the application. -->
+    <style name="EdittextStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:backgroundTint">@color/colorAccent</item>
+        <item name="android:inputType">textCapWords</item>
+        <item name="android:layout_marginLeft">@dimen/edittext_margin_side</item>
+        <item name="android:layout_marginRight">@dimen/edittext_margin_side</item>
+    </style>
+
+    <!-- Style of Thank you... textview in the application. -->
+    <style name="ThankYouStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textSize">@dimen/thank_text_size</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:layout_margin">@dimen/bottom_layout_margin</item>
+    </style>
+
+    <!-- Style of buttons in the application. -->
+    <style name="ButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:background">@drawable/button_border</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:layout_margin">@dimen/bottom_layout_margin
+
+        </item>
+    </style>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AppTheme's colors. -->
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#880E4F</color>
+
+    <!-- Added colors in the application. -->
+    <color name="textColor">@color/colorPrimaryDark</color>
+    <color name="layoutBackground">#80FFFFFF</color>
+    <color name="wrongAnswer">#990000</color>
+    <color name="goodAnswer">#005000</color>
+</resources>
